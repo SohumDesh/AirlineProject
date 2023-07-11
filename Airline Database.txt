@@ -1,0 +1,10 @@
+06.00am [ Quantas ] Sydney
+07.00am [ Air Canada ] Vancouver
+08.00am [ Lufthansa ] Berlin
+09.00am [ Emraites ] Dubai
+10.00am [ Jet Blue ] California
+11.00am [ Air Canada ] Sydney
+12.00am [ United Airlines ] Sydney
+01.00pm [ Jet Blue ] Vancouver
+02.00pm [ Air India ] Delhi
+03.00pm [ Delta ] Berlin
